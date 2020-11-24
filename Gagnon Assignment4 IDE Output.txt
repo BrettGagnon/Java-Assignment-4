@@ -1,0 +1,110 @@
+Brett Gagnon
+Intro to Java Programming
+Program 4
+10/6/2018
+
+IDE Output:
+
+
+run:
+
+Enter URL site (or 'exit')...
+www.boston.com
+Url value read was: www.boston.com
+Enter URL argument name (or 'done')...
+done
+URL with appended arguments is:
+  http://www.boston.com
+
+Enter URL site (or 'exit')...
+http://www.google.com
+Url value read was: http://www.google.com
+Enter URL argument name (or 'done')...
+done
+URL with appended arguments is:
+  http://www.google.com
+
+Enter URL site (or 'exit')...
+www.barnesandnoble.com
+Url value read was: www.barnesandnoble.com
+Enter URL argument name (or 'done')...
+publisher
+Enter type of argument value (string, integer, double)...
+string
+Enter a string value
+Addison & Wesley
+Enter URL argument name (or 'done')...
+title
+Enter type of argument value (string, integer, double)...
+string
+Enter a string value
+Does e=mc2 ?
+Enter URL argument name (or 'done')...
+price
+Enter type of argument value (string, integer, double)...
+double
+Enter a double value
+19.95
+Enter URL argument name (or 'done')...
+done
+URL with appended arguments is:
+  http://www.barnesandnoble.com?publisher=Addison+%26+Wesley&title=Does+e%3dmc2+%3f&price=19.95
+
+Enter URL site (or 'exit')...
+http://www.amazon.com
+Url value read was: http://www.amazon.com
+Enter URL argument name (or 'done')...
+published
+Enter type of argument value (string, integer, double)...
+string
+Enter a string value
+6/2010
+Enter URL argument name (or 'done')...
+title
+Enter type of argument value (string, integer, double)...
+string
+Enter a string value
+History of M & M's
+Enter URL argument name (or 'done')...
+SKU#
+Enter type of argument value (string, integer, double)...
+integer
+Enter an integer value
+12345
+Enter URL argument name (or 'done')...
+done
+URL with appended arguments is:
+  http://www.amazon.com?published=6%2f2010&title=History+of+M+%26+M%27s&SKU%23=12345
+
+Enter URL site (or 'exit')...
+brettsjavaprogram.com
+Url value read was: brettsjavaprogram.com
+Enter URL argument name (or 'done')...
+Created
+Enter type of argument value (string, integer, double)...
+string
+Enter a string value
+10/6/2018
+Enter URL argument name (or 'done')...
+Program Number#
+Enter type of argument value (string, integer, double)...
+integer
+Enter an integer value
+4
+Enter URL argument name (or 'done')...
+Approximate value
+Enter type of argument value (string, integer, double)...
+double
+Enter a double value
+10.99
+Enter URL argument name (or 'done')...
+done
+URL with appended arguments is:
+  http://www.brettsjavaprogram.com?Created=10%2f6%2f2018&Program+Number%23=4&Approximate+value=10.99
+
+Enter URL site (or 'exit')...
+exit
+
+Done - press enter key to end program
+
+BUILD SUCCESSFUL (total time: 8 minutes 35 seconds)
